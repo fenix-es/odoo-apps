@@ -1,2 +1,2 @@
-# odoo-addons
-Odoo Addons by Fenix Engineering Solutions
+# odoo-apps
+Published Odoo Apps from Fenix Engineering Solutions
