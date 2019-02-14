@@ -3,8 +3,8 @@
 # @author Jose F. Fernandez
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
-    'name': "Project Kanban Documents",
-    'version': "11.0.1.0.2",
+    'name': "Project Task Documents",
+    'version': "11.0.1.0.1",
     'category': "Project",
     'sequence': 10,
     'license': 'AGPL-3',
@@ -19,11 +19,11 @@
     'application': False,
     'installable': True,
     'auto_install': False,
-    'summary': "Show documents action on project kanban view",
+    'summary': "Add documents to project task",
     'description': """
-Project Kanban Documents
-========================
+Project Task Documents
+======================
 
-Show documents action on project kanban view.
+Add documents button on project task and on kanban view of task.
 """,
 }
