@@ -2,11 +2,12 @@
    :target: http://www.gnu.org/licenses/agpl
    :alt: License: AGPL-3
 
-======================
-Project Task Documents
-======================
+==========================
+Project Task Collaborators
+==========================
 
-This module adds a documents button on project task and on kanban view of task.
+This module adds collaborators to project task.
+Collaborators are employees (either from the company or from other companies)
 
 Used as direct dependency on our `Trello Connector Odoo App <https://apps.odoo.com/apps/modules/11.0/project_trello_connector/>`_.
 
@@ -20,7 +21,7 @@ No configuration options.
 Usage
 =====
 
-Just install and you will see the Documents button on project task and on kanban view of task.
+Just install and you will see the Collaborators field on project task form and kanban view.
 
 
 Known Issues / Roadmap
@@ -35,7 +36,7 @@ Bug Tracker
 Bugs are tracked on `GitHub issues <https://github.com/fenix-es/odoo-addons/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed feedback
-`here <https://github.com/fenix-es/odoo-addons/issues/new?body=Module:%20project_task_documents%0AVersion:%20...%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`here <https://github.com/fenix-es/odoo-addons/issues/new?body=Module:%20project_task_collaborators%0AVersion:%20...%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 
 Credits
